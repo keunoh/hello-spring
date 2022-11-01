@@ -1,5 +1,4 @@
-# hello-spring
-hello-spring project
+understanding how spring works
 
 - h2 서버 접속
   - .h2/sh로 접속해야함 해당 폴더 위치에서
